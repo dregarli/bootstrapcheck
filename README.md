@@ -13,7 +13,7 @@ Quick access links to sections: Home, About, Contact, Coaches.
 
 Full-screen background image with a dark overlay for readability.
 
-Prominent camp title (<h1>) and tagline.
+Prominent camp title h1 and tagline.
 
 - Registration Form
 
