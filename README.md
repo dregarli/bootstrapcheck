@@ -1,4 +1,3 @@
-# bootstrapcheck
 This is a responsive website for Mamba Elites – Youth Basketball Camp. The site is built with HTML, CSS, and Bootstrap 5, and is designed to showcase camp details, provide registration functionality, and highlight the coaching staff.
 
 The project emphasizes clean design, mobile responsiveness, and an engaging user experience.
@@ -53,3 +52,4 @@ HTML5
 CSS3 (custom styles for theme + flip cards)
 
 Bootstrap 5.3.3 (grid, navbar, forms, tables, buttons)
+
